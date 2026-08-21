@@ -1,133 +1,121 @@
 ﻿l_simp_chinese:
- PER_Reinforce_The_Regime:0 "Reinforce the Regime"
- PER_Reinforce_The_Regime_desc:0 "Since the 1979 Islamic Revolution, our Republic has weathered war, sanctions, and internal unrest. Yet the enemies of the faith still whisper of change. To ensure survival, the Islamic Republic must fortify its foundations, silence dissent, and remind the people that the legacy of Imam Khomeini endures through unwavering loyalty to the Supreme Leader."
- PER_Strenghten_The_Reformist_Faction:0 "Strengthen the Reformist Faction"
- PER_Strenghten_The_Reformist_Faction_desc:0 "The reformists seek to ease tensions, expand freedoms, and modernize the Republic from within. By granting them greater influence in the Majles and government, we can begin to challenge the dominance of the hardliners."
- PER_Expand_Morality_Police:0 "Expand the Guidance Patrol"
- PER_Expand_Morality_Police_desc:0 "The revolution demands strict adherence to Islamic principles. The Guidance Patrol will be strengthened to enforce the law and counter subversive influence. Schools and public spaces will be closely monitored, shaping the youth. This ensures loyalty and hardliner control over society."
- PER_Strenghten_The_Clergy:0 "Strengthen the Clergy"
- PER_Strenghten_The_Clergy_desc:0 "The clerical establishment must guide the nation and defend the revolution. By expanding their influence in government and education, hardliners secure ideological dominance. Seminaries will be reinforced and religious authority embedded in every province. This ensures loyalty to the regime and the continuation of revolutionary values."
- PER_Suppress_Reformist_Factions:0 "Suppress Reformist Factions"
- PER_Suppress_Reformist_Factions_desc:0 "Reformist politicians seek to weaken the revolution from within. By purging their influence from government and institutions, hardliners consolidate power. Their networks in parliament and local councils will be dismantled. This ensures the regime’s dominance and prevents internal challenges."
- PER_Funds_For_The_IRGC:0 "Increase Funding for the IRGC"
- PER_Funds_For_The_IRGC_desc:0 "The Revolutionary Guard is the backbone of the Republic. By increasing their funding, we strengthen their ability to enforce the law and defend the regime. Expanded resources will improve training, equipment, and loyalty programs. This ensures the IRGC remains a powerful pillar of hardliner control."
- PER_Crackdown_On_Riots:0 "Crackdown on Riots"
- PER_Crackdown_On_Riots_desc:0 "The nationwide protests following Mahsa Amini’s death challenge the Republic’s authority. Hardliners must respond swiftly to restore order and deter further unrest. Security forces will be deployed to suppress demonstrations and control key cities. This demonstrates the regime’s strength and reinforces loyalty among supporters."
- PER_Reform_Bureaucracy:0 "Reform the Bureaucracy"
- PER_Reform_Bureaucracy_desc:0 "Corruption and inefficiency weaken the state and empower hardliners. By modernizing ministries and promoting technocrats, reformists can regain influence in government. Administrative processes will be streamlined and merit-based appointments encouraged. This strengthens reformist control and improves the effectiveness of the Republic."
- PER_Acknowledge_Protesters_Demands:0 "Acknowledge Protesters’ Demands"
- PER_Acknowledge_Protesters_Demands_desc:0 "The Mahsa Amini protests reflect widespread public discontent. By addressing their concerns, reformists can show empathy and gain popular support. Measures to ease restrictions and improve civil rights will be considered. This strengthens reformist influence while signaling a willingness to modernize the Republic."
- PER_Loosen_Hijab_Restrictions:0 "Loosen Hijab Restrictions"
- PER_Loosen_Hijab_Restrictions_desc:0 "The strict enforcement of hijab laws has fueled unrest across the nation. By easing these restrictions, reformists can appeal to public sentiment and empower civil society. Women will gain more freedom in education and public life. This strengthens reformist support and challenges hardliner authority."
- PER_Challenge_Conservative_Clerics:0 "Challenge Conservative Clerics"
- PER_Challenge_Conservative_Clerics_desc:0 "Hardline clerics dominate politics and suppress reformist initiatives. By challenging their influence, reformists can reclaim authority in government and society. Religious oversight will be limited and moderate voices promoted. This strengthens reformist control and undermines hardliner power."
- PER_Sieze_The_Moment:0 "Seize the Moment"
- PER_Sieze_The_Moment_desc:0 "Reformists have never held so much power. Now is the time to act decisively and overthrow the hardliners. By launching a bold coup, they aim to seize control of the Republic. The nation stands on the brink of revolution, and the outcome is uncertain."
- PER_Slow_And_Stedy:0 "Slow And Stedy"
- PER_Slow_And_Stedy_desc:0 "Reformists seek to modernize the foundations of the state while preserving its core identity. By revising laws and institutions, they aim to reduce clerical dominance and empower elected officials. Civil liberties, transparency, and accountability will be strengthened. These changes consolidate reformist influence and guide the Republic toward moderation."
- PER_Power_To_The_Legislature:0 "Power to the Legislature"
- PER_Power_To_The_Legislature_desc:0 "Reformists aim to shift authority from the clergy and hardliners to elected representatives. By strengthening the legislature, they ensure laws reflect the will of the people. Parliamentary oversight and checks on executive power will be reinforced. This consolidates reformist influence and promotes a more balanced government."
- PER_Undermine_The_Supreme_Leader:0 "Undermine the Supreme Leader"
- PER_Undermine_The_Supreme_Leader_desc:0 "We will weaken the Supreme Leader’s grip on power. Through legal reforms, key appointments, and public influence."
- PER_Promise_Minority_Autonomy:0 "Promise Minority Autonomy"
- PER_Promise_Minority_Autonomy_desc:0 "We will grant greater autonomy to Iran’s ethnic and religious minorities. By recognizing their rights and local governance, we aim to build trust and reduce unrest. Cultural and political freedoms will be expanded under our reformist rule. This strengthens our support base and fosters a more inclusive Republic."
- PER_Sway_Commanders:0 "Sway the Commanders"
- PER_Sway_Commanders_desc:0 "We must win the loyalty of key military commanders to secure our reforms. By building trust and offering positions of influence, we reduce the risk of hardliner pushback. The armed forces will gradually align with our vision. This strengthens our control and ensures the success of our reformist agenda."
- PER_Discredit_The_Revolution:0 "Discredit the Revolution"
- PER_Discredit_The_Revolution_desc:0 "We will undermine the old revolutionary narratives that empower hardliners. By exposing corruption and failures, we weaken their legitimacy. Propaganda and public messaging will highlight our vision for a modern, accountable Republic. This shifts public support toward our reformist leadership."
- PER_Strike_At_The_Old_Man:0 "Strike at the Old Man"
- PER_Strike_At_The_Old_Man_desc:0 "We will strike at Ali Khamenei now that we have secured the loyalty of key generals, the support of minorities, and the backing of the populace."
- PER_Iranian_Transitional_Government:0 "Iranian Transitional Government"
- PER_Iranian_Transitional_Government_desc:0 "With the Islamic Republic dismantled, a rare opportunity opens before us. We will form a transitional government to steer Iran through this historic moment. Technocrats, reformists, and trusted civilian leaders will take the reins, restoring order and reshaping institutions. Every decision now will define the nation’s future, and the world watches as we rebuild a new Republic from the ashes of the old."
- PER_Use_Our_Leverage:0 "Use Our Leverage"
- PER_Use_Our_Leverage_desc:0 "With a reformist president in power, we hold unprecedented influence over the state. Now is the time to wield that leverage to weaken hardliner control and push bold reforms. Key appointments, policy initiatives, and strategic maneuvers will shift power decisively in our favor. Every move we make strengthens our faction and reshapes the Republic’s future."
- PER_Iran_Under_Sanctions:0 "Iran Under Sanctions"
- PER_Iran_Under_Sanctions_desc:0 "Decades of international sanctions have tested Iran’s resilience. Trade restrictions and isolation have strained industries and challenged daily life. The nation must adapt, innovate, and find ways to survive. Every decision now carries weight for our sovereignty and future prosperity."
- PER_Iran_Post_Nuclear_Treaty:0 "Post-Nuclear Treaty Economy"
- PER_Iran_Post_Nuclear_Treaty_desc:0 "International negotiations have reshaped our global standing. Years of isolation left our infrastructure fragile and industries weak. New opportunities emerge as trade slowly reopens, yet challenges remain. Iran must decide how to invest limited resources to rebuild, modernize, and secure strategic independence."
- PER_Restart_The_Nuclear_Program:0 "Restart the Nuclear Program"
- PER_Restart_The_Nuclear_Program_desc:0 "The JCPOA restricted Iran’s nuclear ambitions and dismantled key infrastructure. Many view it as a compromise that cost sovereignty for little gain. By restarting the program, Iran reclaims its right to self-reliance and strategic deterrence. The world will watch, but we move forward on our own terms."
- PER_The_Isfahan_Facility:0 "The Isfahan Facility"
- PER_The_Isfahan_Facility_desc:0 "The uranium conversion facility in Isfahan is vital to Iran’s nuclear program. Once monitored and partially inactive under international agreements, it now hums with renewed activity. Engineers refine uranium and restore essential machinery. Revitalizing Isfahan strengthens our technical capabilities and signals that Iran cannot be restrained by foreign powers."
- PER_Cooperate_With_North_Korea:0 "Cooperate With North Korea"
- PER_Cooperate_With_North_Korea_desc:0 "Iran and North Korea share a history of resisting foreign domination. Deepening cooperation allows us to exchange knowledge in missiles, military tech, and nuclear research. Sanctions cannot isolate our nations. This alliance strengthens our defenses and ensures neither stands alone against global pressure."
- PER_Test_A_Bomb:0 "Test a Bomb"
- PER_Test_A_Bomb_desc:0 "After years of secret development, Iran is on the brink of a defining moment. A nuclear test will prove our technological might and secure our place among the world’s powers. The act will draw global attention, but for Iran, it marks the dawn of a new era of deterrence and national strength."
- PER_Negotiate_With_The_West:0 "Negotiate With the West"
- PER_Negotiate_With_The_West_desc:0 "Diplomacy offers Iran a chance to lift sanctions and reopen trade. Careful negotiations could restore international trust and strengthen the economy. While some see compromise, pragmatism may bring prosperity and stability. Choosing dialogue can shape Iran’s future more than any weapon."
- PER_Iranian_Manifacturing_Sector:0 "Iranian Manufacturing Sector"
- PER_Iranian_Manifacturing_Sector_desc:0 "Iran’s industries have endured sanctions and inefficiency but remain resilient. From steel to automobiles, domestic production persists. Supporting manufacturers builds self-sufficiency, creates jobs, and reduces dependence on imports. A strong industrial base ensures Iran stands proudly on its own."
- PER_Iranian_Military_Industrial_Complex:0 "Iranian Military Industrial Complex"
- PER_Iranian_Military_Industrial_Complex_desc:0 "Isolation forced Iran to build a self-reliant military industry. Producing arms from rifles to missiles is now a point of national pride. Expanding this sector equips our forces with domestic technology and reduces reliance on foreign suppliers. Strategic autonomy ensures no external power dictates our defense policy."
- PER_Open_New_Factories:0 "Open New Factories"
- PER_Open_New_Factories_desc:0 "Investing in new factories revitalizes the economy and creates jobs. Producing consumer and industrial goods strengthens regional development and self-sufficiency. Each facility expands Iran’s industrial base, supporting long-term resilience and prosperity. Domestic production ensures the nation can withstand global pressures."
- PER_Weapons_Production:0 "Weapons Production"
- PER_Weapons_Production_desc:0 "Domestic weapons production secures supply lines and strengthens defense. Factories for arms, artillery, and missile components boost industry and create skilled jobs. A robust military industry fosters strategic autonomy and potential technological spillovers. Iran can defend its interests independently."
- PER_Train_Production:0 "Train Production"
- PER_Train_Production_desc:0 "Modern rail infrastructure improves transport of goods and people across Iran. Upgraded train production boosts industry, creates jobs, and supports regional economies. Efficient networks strengthen both the economy and national mobilization. Rapid, reliable transport ensures self-sufficiency and resilience."
- PER_The_Beating_Heart_Of_Iran:0 "The Beating Heart of Iran"
- PER_The_Beating_Heart_Of_Iran_desc:0 "Tehran is the political, economic, and cultural center of Iran. Investment here ripples across the nation, boosting governance and industry. Strengthening the capital ensures national stability and efficient administration. A strong Tehran anchors Iran’s future."
- PER_Oil_Production:0 "Oil Production"
- PER_Oil_Production_desc:0 "Iran’s oil industry is a vital economic pillar. Expanding output and modernizing infrastructure increases revenue and energy security. Oil fuels domestic industries and strengthens Iran’s international leverage. Maintaining this sector is essential for economic stability and growth."
- PER_Modernize_The_Countryside:0 "Modernize the Countryside"
- PER_Modernize_The_Countryside_desc:0 "Rural Iran has long been underserved. Investing in roads, irrigation, electricity, and schools boosts agriculture and living standards. Modernization reduces urban migration and strengthens regional economies. A developed countryside forms the backbone of a resilient nation."
- PER_Diversify_Production:0 "Diversify Production"
- PER_Diversify_Production_desc:0 "Overreliance on oil leaves Iran vulnerable to global shocks. Expanding manufacturing, mining, and agriculture builds a balanced economy. Diversification creates jobs, strengthens self-sufficiency, and ensures long term stability. A varied industrial base is key to national resilience."
- PER_Surcomvent_The_Sanction:0 "Circumvent the Sanctions"
- PER_Surcomvent_The_Sanction_desc:0 "Sanctions have forced Iran to innovate. Alternative supply chains, clandestine trade, and domestic substitutes keep the economy running. These measures protect jobs and critical industries. Mastering self-reliance under pressure is essential for national independence."
- PER_Wepons_Production:0 "Weapons Production"
- PER_Wepons_Production_desc:0 "Domestic weapons production secures supply lines and builds skilled jobs. Factories for arms and missiles increase strategic autonomy. A strong defense industry also offers civilian technological benefits. Iran can defend itself without foreign reliance."
- PER_Khoda_Afarin_hydroelectric_complex:0 "Khoda Afarin Hydroelectric Complex"
- PER_Khoda_Afarin_hydroelectric_complex_desc:0 "The Khoda Afarin dam harnesses the power of the Aras River to provide electricity and support industry. Investing in hydroelectric infrastructure boosts energy independence and strengthens regional development. Modernizing our power supply ensures that Iran’s economy can grow sustainably while reducing reliance on fossil fuels. This project represents a step toward a self-sufficient and resilient nation."
- PER_Democracy:0 "Iranian §cDemocracy§!"
- PER_Democracy_desc:0 "After decades of authoritarian rule, the people of Iran have demanded change. The streets echo with calls for freedom, reform, and representation. A new democratic Iran is emerging — one that seeks to balance faith with liberty, tradition with progress, and independence with cooperation. For the first time in generations, Iranians can begin to shape their nation’s destiny through the will of the people."
- PER_Communism:0 "§eCommunist§! Takover"
- PER_Communism_desc:0 "The workers and revolutionaries have risen, toppling the old order and seizing power in the name of the proletariat. Guided by socialist ideals, the new regime promises to build a society free from exploitation and inequality. Industries will be nationalized, land redistributed, and class divisions erased all under the banner of a new Iran, united by the struggle for social justice."
- PER_Monarchism:0 "§mPahlavi§! Restoration"
- PER_Monarchism_desc:0 "The royal standard of the Pahlavi dynasty once again flies over Tehran. Many see in the monarchy a symbol of stability, order, and national pride a return to Iran’s pre-revolutionary grandeur. The Shah’s restoration marks not just the revival of a royal family, but a renewed vision of Iran as a proud, modern, and sovereign nation standing tall on the world stage."
- PER_Iran_United:0 "A United Iran"
- PER_Iran_United_desc:0 "While calls for regional autonomy and minority rights have grown louder, our government has chosen a different path one of unity and shared national identity. By strengthening the central government and emphasizing equality under one flag, we aim to ensure that Iran remains whole, strong, and indivisible in the face of internal and external pressures."
- PER_Bring_Back_The_Rebellious_Provinces:0 "Bring Back the Rebellious Provinces"
- PER_Bring_Back_The_Rebellious_Provinces_desc:0 "Reform was meant to strengthen Iran, not tear it apart. Yet in our moment of transformation, separatists and traitors seized the opportunity to break away, carving Kurdish, Azeri, and Baluch lands from the nation. These provinces were not lost by right, but by betrayal. The era of weakness is over. Iran will demand the return of its rebellious provinces"
- PER_A_Royal_Adress:0 "Royal Address to the Nation"
- PER_A_Royal_Adress_desc:0 "For the first time in decades, the Iranian people hear the voice of the Shah’s heir not through rumor or memory, but directly. Reza Pahlavi speaks of unity, dignity, and a Iran freed from fear and isolation, calling on the nation to decide its future together."
- PER_American_Investment:0 "American Investment Returns to Iran"
- PER_American_Investment_desc:0 "With the Shah restored, channels long frozen begin to reopen. American capital, technology, and influence cautiously return, promising economic revival while tying Iran once more to the Western order."
- PER_The_Shahs_University:0 "The Shah’s University"
- PER_The_Shahs_University_desc:0 "Reviving the Pahlavi vision of a modern Iran, a new national university is founded to educate loyal administrators, engineers, and officers. It will serve as both a symbol of renewal and a pillar of the restored monarchy’s future."
- PER_METO:0 "The Middle East Treaty Organization"
- PER_METO_desc:0 "Once a pillar of Western-aligned security in the region, Iran now seeks to reclaim that role. Rejoining the Middle East Treaty Organization marks a clear geopolitical realignment, anchoring the restored monarchy within a renewed framework of collective defense and regional influence."
- PER_Expanding_The_Alliance:0 "Expanding the Alliance"
- PER_Expanding_The_Alliance_desc:0 "The restored Shah reaches out to neighboring Turkey and Afghanistan, forging closer ties and strategic partnerships. By uniting regional powers, Iran aims to secure its borders, bolster trade, and assert its influence across the Middle East and Central Asia."
- PER_A_Middle_Eastern_Army:0 "A Middle Eastern Army"
- PER_A_Middle_Eastern_Army_desc:0 "Under the Shah’s leadership, Iran begins forming a regional army to unite allies and project strength. Its presence inspires confidence across the alliance, strengthening bonds and ensuring the security of member nations."
- PER_Our_Past_Glory:0 "Our Past Glory"
- PER_Our_Past_Glory_desc:0 "The Shah rejects timid diplomacy and looks to Iran’s former might. Imperial pride and military strength must be restored, and those who doubted the Lion and Sun will feel the force of a nation reclaiming its rightful place in the Middle East."
- PER_Iranic_Identity:0 "Reviving the Iranic Identity"
- PER_Iranic_Identity_desc:0 "Iran looks to its roots, reclaiming the heritage that once made it great. Ancient traditions, Persian culture, and the pride of the nation’s lineage are revived to forge unity and restore Iran’s rightful place among the world’s powers."
- PER_Now_We_Strike:0 "Now We Strike in Iraq"
- PER_Now_We_Strike_desc:0 "Iran moves decisively against Iraq, reclaiming influence and punishing those who once challenged its authority. The nation acts swiftly, showing that its strength and resolve are unmatched in the region."
- PER_Bahrain_And_Qatar:0 "Reclaiming Bahrain and Qatar"
- PER_Bahrain_And_Qatar_desc:0 "Centuries old ties remind Iran of its historical reach. By asserting claims over Bahrain and Qatar, the nation restores influence long held under the Qajar dynasty, reinforcing its presence in the Gulf and the region’s respect for Iranian power."
- PER_Strike_Pakistan:0 "Strike Against Pakistan"
- PER_Strike_Pakistan_desc:0 "Iran moves to punish a neighbor that challenges its authority and regional ambitions. Swift and decisive action will demonstrate the nation’s strength, restore pride, and secure its eastern borders against defiance."
- PER_Afganistan_Belongs_To_Iran:0 "Afghanistan Belongs to Iran"
- PER_Afganistan_Belongs_To_Iran_desc:0 "The Pashtun people are part of the greater Iranic heritage, and Afghanistan’s lands are intertwined with Iran’s destiny. By reclaiming influence, the nation restores historical ties and secures its eastern frontier under a shared cultural banner."
- PER_Iranic_Empire:0 "Proclaim the Iranic Empire"
- PER_Iranic_Empire_desc:0 "The time has come to restore Iran to its rightful grandeur. The Iranic Empire rises once more, uniting the nation and its historical territories under a single banner of strength, pride, and unstoppable ambition."
- PER_Strike_At_Saudi_Arabia:0 "Strike at Saudi Arabia"
- PER_Strike_At_Saudi_Arabia_desc:0 "Iran moves against the Wahhabi order that dominates the Arabian Peninsula. By seizing the holy cities from what is seen as extremist rule, the nation claims to restore their place within the broader Islamic world and reshape the balance of power in the region."
- PER_Re_establish_the_Imperial_Army:0 "Re-establish the Imperial Army"
- PER_Re_establish_the_Imperial_Army_desc:0 "Iran rebuilds its armed forces on discipline, professionalism, and national pride. Drawing inspiration from the pre-revolutionary military tradition, the Imperial Army is restored to serve not ideology, but the strength, unity, and destiny of the Iranian nation."
- PER_Learn_From_The_Old_Generals:0 "Learn from the Old Generals"
- PER_Learn_From_The_Old_Generals_desc:0 "Veterans of past campaigns share their knowledge, tactics, and strategies. By studying the successes and mistakes of Iran’s former military leaders, the nation strengthens its army and prepares for the challenges of a turbulent region."
- PER_An_Army_Adapted_To_Desert_Warfare:0 "An Army Adapted to Desert Warfare"
- PER_An_Army_Adapted_To_Desert_Warfare_desc:0 "Iran trains its forces for the harsh realities of desert combat. Mobility, endurance, and local knowledge become the pillars of a military capable of dominating arid battlefields and projecting power across the region."
- PER_Axis_Of_Resistance:0 "Unite the Axis of Resistance"
- PER_Axis_Of_Resistance_desc:0 "Tehran must solidify its leadership of the Axis of Resistance a loose network of allied militias and movements committed to countering Western influence and Israel in the Middle East. By coordinating with Hezbollah, the Houthis, and other allied forces, Iran can extend its strategic depth and project power across multiple fronts without direct conventional confrontation."
- PER_Join_The_Houthi_Stouggle:0 "Support the Yemeni Struggle"
- PER_Join_The_Houthi_Stouggle_desc:0 "Yemen’s Houthis have evolved into a capable and influential force in the region. Increasing their operational capacity will enhance Iran’s strategic reach, disrupt hostile supply routes, and tie down Saudi and Western attention far from our core borders."
- PER_Fund_Hezbollah:0 "Fund Hezbollah"
- PER_Fund_Hezbollah_desc:0 "Hezbollah remains one of our most effective and ideologically aligned partners, especially in confronting Israeli influence. By dedicating further financial support and material assistance, we can ensure its resilience, sharpen its readiness, and reinforce its role as a key pillar of Iran’s regional strategy."
- PER_Iranian_Nuclear_Program:0 "Revoke The Fatwa Against A Nuclear Bomb"
- PER_Iranian_Nuclear_Program_desc:0 " "
+ PER_Crackdown_On_Riots：0 “镇压骚乱”
+ PER_Crackdown_On_Riots_desc：0 “马赫萨·阿米尼去世后全国范围内的抗议挑战了共和国的权威。强硬派必须迅速回应，恢复秩序并遏制进一步的动荡。安全部队将被部署以镇压示威并控制关键城市。这显示了政权的实力，也加强了支持者的忠诚。”
+ PER_Reform_Bureaucracy：0 “改革官僚体系”
+ PER_Reform_Bureaucracy_desc：0 “腐败和低效削弱国家，强硬派得以权力。通过现代化部委和提拔技术官僚，改革派可以重新获得政府影响力。行政流程将得到简化，并鼓励基于绩效的任命。这加强了改革派的控制，提升了共和国的效能。”
+ PER_Acknowledge_Protesters_Demands：0 “承认抗议者的诉求”
+ PER_Acknowledge_Protesters_Demands_desc：0 “马赫萨·阿米尼抗议反映了广泛的公众不满。通过回应他们的关切，改革派能够展现同理心并赢得民众支持。将考虑放宽限制和改善民权的措施。这加强了改革派的影响力，同时表明了现代化共和国的意愿。”
+ PER_Loosen_Hijab_Restrictions：0 “放宽头巾限制”
+ PER_Loosen_Hijab_Restrictions_desc：0 “严格执行头巾法律激化了全国范围内的动荡。通过放宽这些限制，改革派可以诉诸公众情绪，赋能公民社会。女性将在教育和公共生活中获得更多自由。这加强了改革派的支持，挑战了强硬派的权威。”
+ PER_Challenge_Conservative_Clerics：0 “挑战保守派神职人员”
+ PER_Challenge_Conservative_Clerics_desc：0 “强硬派神职人员主导政治，压制改革倡议。通过挑战他们的影响力，改革派能够重新夺回政府和社会的权威。宗教监督将受到限制，温和派声音将被提倡。这加强了改革派的控制，削弱了强硬派的力量。”
+ PER_Sieze_The_Moment：0 “把握当下”
+ PER_Sieze_The_Moment_desc：0 “改革派从未拥有如此大的权力。现在是果断行动、推翻强硬派的时候。通过发动大胆政变，他们旨在夺取共和国的控制权。国家正处于革命的边缘，结果充满不确定性。”
+ PER_Slow_And_Stedy：0 “慢而坚定”
+ PER_Slow_And_Stedy_desc：0 “改革派寻求现代化国家的基础，同时保留其核心身份。通过修订法律和机构，他们旨在减少神职人员的主导地位，赋权当选官员。公民自由、透明度和问责制将得到加强。这些变化巩固了改革派的影响力，引导共和国走向温和。”
+ PER_Power_To_The_Legislature：0 “权力归立法机关”
+ PER_Power_To_The_Legislature_desc：0 “改革派旨在将权力从神职人员和强硬派转移到民选代表。通过加强立法机构，他们确保法律反映人民的意愿。议会监督和对行政权力的制衡将得到加强。这巩固了改革派的影响力，促进了更平衡的政府。”
+ PER_Undermine_The_Supreme_Leader：0 “破坏最高领袖”
+ PER_Undermine_The_Supreme_Leader_desc：0 “我们将削弱最高领袖对权力的控制。通过法律改革、关键任命和公众影响力。”
+ PER_Promise_Minority_Autonomy：0 “承诺少数群体自治”
+ PER_Promise_Minority_Autonomy_desc：0 “我们将给予伊朗的民族和宗教少数群体更大的自治权。通过承认他们的权利和地方治理，我们旨在建立信任并减少动荡。在我们的改革统治下，文化和政治自由将得到扩大。这巩固了我们的支持基础，促进了一个更具包容性的共和国。”
+ PER_Sway_Commanders：0 “影响指挥官”
+ PER_Sway_Commanders_desc：0 “我们必须赢得关键军事指挥官的忠诚，以确保我们的改革。通过建立信任和提供有影响力的职位，我们降低了强硬派反弹的风险。武装部队将逐渐与我们的愿景保持一致。这加强了我们的控制，确保了我们改革议程的成功。”
+ PER_Discredit_The_Revolution：0 “抹黑革命”
+ PER_Discredit_The_Revolution_desc：0 “我们将破坏那些赋予强硬派力量的旧革命叙事。揭露腐败和失败，削弱了他们的合法性。宣传和公众信息将凸显我们对现代、问责共和国的愿景。这转移了公众对我们改革派领导层的支持。”
+ PER_Strike_At_The_Old_Man：0 “击打老人”
+ PER_Strike_At_The_Old_Man_desc：0 “我们现在将要打击阿里·哈梅内伊，因为我们已经赢得了关键将军的忠诚、少数民族的支持和民众的支持。”
+ PER_Iranian_Transitional_Government：0 “伊朗过渡政府”
+ PER_Iranian_Transitional_Government_desc：0 “随着伊斯兰共和国的瓦解，一个难得的机会摆在我们面前。我们将组建过渡政府，引导伊朗度过这一历史时刻。技术官僚、改革派和值得信赖的文官领导人将掌舵，恢复秩序，重塑机构。现在的每一个决定都将决定国家的未来，世界正注视着我们从旧共和国的灰烬中重建一个新共和国。”
+ PER_Use_Our_Leverage：0 “利用我们的筹码”
+ PER_Use_Our_Leverage_desc：0 “在一位改革派总统执政下，我们对国家拥有前所未有的影响力。现在正是利用这种影响力削弱强硬派控制、推动大胆改革的时候。关键任命、政策举措和战略操作将决定性地向我们有利的方向转移权力。我们的每一步都在壮大派系，重塑共和国的未来。”
+ PER_Iran_Under_Sanctions：0 “伊朗受到制裁”
+ PER_Iran_Under_Sanctions_desc：0 “数十年的国际制裁考验了伊朗的韧性。贸易限制和隔离给产业带来了压力，也挑战了日常生活。国家必须适应、创新，并找到生存之道。现在每一个决定都关乎我们的主权和未来繁荣。”
+ PER_Iran_Post_Nuclear_Treaty：0 “后核条约经济”
+ PER_Iran_Post_Nuclear_Treaty_desc：0 “国际谈判重塑了我们的全球地位。多年的孤立使我们的基础设施脆弱，工业薄弱。随着贸易缓慢恢复，新机遇不断涌现，但挑战依然存在。伊朗必须决定如何投入有限资源来重建、现代化并确保战略独立。”
+ PER_Restart_The_Nuclear_Program：0 “重启核计划”
+ PER_Restart_The_Nuclear_Program_desc：0 “JCPOA限制了伊朗的核野心，并拆除了关键基础设施。许多人认为这是一种妥协，代价是主权代价却收获甚微。通过重启该计划，伊朗重新获得了自力更生和战略威慑的权利。全世界都会关注，但我们要按照自己的方式前进。”
+ PER_The_Isfahan_Facility：0 “伊斯法罕设施”
+ PER_The_Isfahan_Facility_desc：0 “伊斯法罕的铀转换设施对伊朗核计划至关重要。它曾受国际协议监控且部分不活跃，如今活动恢复。工程师们精炼铀并修复关键机械。振兴伊斯法罕将增强我们的技术能力，并向伊朗发出外国势力无法制衡的信号。”
+ PER_Cooperate_With_North_Korea：0 “与朝鲜合作”
+ PER_Cooperate_With_North_Korea_desc：0 “伊朗和朝鲜有着共同抵抗外国统治的历史。深化合作使我们能够交流导弹、军事技术和核研究的知识。制裁无法孤立我们的国家。这个联盟加强了我们的防御，确保双方都无法孤军奋战全球压力。”
+ PER_Test_A_Bomb：0 “试弹”
+ PER_Test_A_Bomb_desc：0 “经过多年的秘密发展，伊朗正处于一个决定性时刻的边缘。核试验将证明我们的技术实力，巩固我们在世界强国中的地位。该法案将引起全球关注，但对伊朗而言，它标志着威慑和国家力量新时代的开端。”
+ PER_Negotiate_With_The_West：0 “与西方谈判”
+ PER_Negotiate_With_The_West_desc：0 “外交为伊朗解除制裁和重启贸易提供了机会。谨慎的谈判可以恢复国际信任并强化经济。虽然有人认为妥协，但务实可能带来繁荣与稳定。选择对话比任何武器都更能塑造伊朗的未来。”
+ PER_Iranian_Manifacturing_Sector：0 “伊朗制造业”
+ PER_Iranian_Manifacturing_Sector_desc：0 “伊朗工业经历了制裁和低效，但依然保持韧性。从钢铁到汽车，国内生产依然存在。支持制造商能够建立自给自足，创造就业机会，减少对进口的依赖。强大的工业基础确保伊朗能够自豪地独立。”
+ PER_Iranian_Military_Industrial_Complex：0 “伊朗军工复合体”
+ PER_Iranian_Military_Industrial_Complex_desc：0 “孤立迫使伊朗建立自给自足的军事工业。从步枪到导弹的生产如今已成为国家自豪的象征。扩大该行业为我们的部队配备国产技术，减少对外国供应商的依赖。战略自主确保没有外部力量左右我们的防御政策。”
+ PER_Open_New_Factories：0 “新工厂开业”
+ PER_Open_New_Factories_desc：0 “投资新工厂振兴经济并创造就业。生产消费品和工业品有助于加强区域发展和自给自足。每个设施都扩展了伊朗的工业基础，支持长期的韧性和繁荣。国内生产确保国家能够抵御全球压力。”
+ PER_Weapons_Production：0 “武器生产”
+ PER_Weapons_Production_desc：0 “国内武器生产保障了补给线并加强了防御。武器、火炮和导弹部件的工厂促进了工业发展，创造了技术岗位。强大的军事工业促进战略自主性和潜在的技术溢出。伊朗可以独立捍卫其利益。”
+ PER_Train_Production：0 “火车制作”
+ PER_Train_Production_desc：0 “现代铁路基础设施改善了伊朗境内货物和人员的运输。升级的列车生产促进工业发展，创造就业机会，并支持区域经济。高效的网络能够增强经济和国家动员。快速可靠的运输确保了自给自足和韧性。”
+ PER_The_Beating_Heart_Of_Iran：0 “伊朗跳动的心脏”
+ PER_The_Beating_Heart_Of_Iran_desc：0 “德黑兰是伊朗的政治、经济和文化中心。这里的投资在全国范围内产生波及效应，促进了治理和产业的发展。加强首都确保国家稳定和高效行政。强大的德黑兰是伊朗未来的基石。”
+ PER_Oil_Production：0 “石油生产”
+ PER_Oil_Production_desc：0 “伊朗的石油产业是重要的经济支柱。扩大产出和现代化基础设施提升收入和能源安全。石油推动了国内工业的发展，并增强了伊朗的国际影响力。维持这一行业对于经济稳定和增长至关重要。”
+ PER_Modernize_The_Countryside：0 “乡村现代化”
+ PER_Modernize_The_Countryside_desc：0 “伊朗农村长期以来一直服务不足。投资道路、灌溉、电力和学校可以提升农业和生活水平。现代化减少了城市迁徙，增强了区域经济。发达的农村构成了韧性国家的脊梁。”
+ PER_Diversify_Production：0 “多元化生产”
+ PER_Diversify_Production_desc：0 “过度依赖石油使伊朗面临全球冲击。扩大制造业、采矿和农业构建了经济的平衡。多元化创造就业，增强自给自足，并确保长期稳定。多样化的工业基础是国家韧性的关键。”
+ PER_Surcomvent_The_Sanction：0 “规避制裁”
+ PER_Surcomvent_The_Sanction_desc：0 “制裁迫使伊朗创新。替代供应链、秘密贸易和国内替代品维持着经济运转。这些措施保护了就业岗位和关键行业。在压力下掌握自力更生对国家独立至关重要。”
+ PER_Wepons_Production：0 “武器生产”
+ PER_Wepons_Production_desc：0 “国内武器生产保障供应链，创造技术性就业岗位。军火和导弹工厂提升了战略自主性。强大的国防工业还能带来民用技术优势。伊朗可以在没有外国依赖的情况下自卫。”
+ PER_Khoda_Afarin_hydroelectric_complex：0 “霍达阿法林水电综合体”
+ PER_Khoda_Afarin_hydroelectric_complex_desc：0 “霍达阿法林大坝利用阿拉斯河的水力提供电力并支持工业。投资水电基础设施提升能源独立，强化区域发展。现代化电力供应确保伊朗经济可持续增长，同时减少对化石燃料的依赖。该项目代表了迈向自给自足且具备韧性国家的一步。”
+ PER_Democracy：0 “伊朗民主§！”
+ PER_Democracy_desc：0 “经过数十年的专制统治，伊朗人民要求变革。街道上回荡着对自由、改革和代表性的呼声。一个新的民主伊朗正在形成——一个寻求在信仰与自由、传统与进步、独立与合作之间取得平衡的伊朗。几代人以来，伊朗人首次能够通过人民的意志开始塑造国家的命运。”
+ PER_Communism：0 “§e共产主义者§！塔科弗”
+ PER_Communism_desc：0 “工人和革命者已经崛起，推翻了旧秩序，以无产阶级的名义夺取了政权。新政权以社会主义理想为指导，承诺建设一个无剥削和不平等的社会。工业将被国有化，土地重新分配，阶级分化被消除，这一切都在一个新伊朗的旗帜下，以争取社会正义为斗争而团结。”
+ PER_Monarchism：0 “§m巴列维§！复兴”
+ PER_Monarchism_desc：0 “巴列维王朝的王旗再次飘扬在德黑兰上空。许多人将君主制视为稳定、秩序和民族自豪感的象征，回归伊朗革命前的辉煌。沙阿的复辟不仅标志着王室的复兴，更是伊朗作为一个自豪、现代、主权国家，在世界舞台上屹立不倒的新愿景。”
+ PER_Iran_United：0 “统一的伊朗”
+ PER_Iran_United_desc：0 “尽管地区自治和少数群体权利的呼声日益高涨，我们的政府却选择了另一条道路——团结与共享的民族认同。通过加强中央政府并强调统一旗帜下的平等，我们旨在确保伊朗在内外压力下保持完整、强大和不可分割。”
+ PER_Bring_Back_The_Rebellious_Provinces：0 “复兴叛乱的省份”
+ PER_Bring_Back_The_Rebellious_Provinces_desc：0 “改革旨在加强伊朗，而非拆解它。然而，在我们转型的时刻，分裂分子和叛徒抓住机会脱离，将库尔德人、阿塞拜疆人和俾路支人土地从民族中剥离。这些省份的失去并非因理所当然，而是背叛所致。软弱时代已经结束。伊朗将要求归还其叛乱省份。”
+ PER_A_Royal_Adress：0 “致国家皇家讲话”
+ PER_A_Royal_Adress_desc：0 “几十年来，伊朗人民第一次通过谣言或记忆直接听到沙阿继承人的声音。礼萨·巴列维呼吁团结、尊严，以及一个摆脱恐惧和孤立的伊朗，呼吁国家共同决定未来。”
+ PER_American_Investment：0 “美国对伊朗的投资回报”
+ PER_American_Investment_desc：0 “随着沙阿的恢复，长期冻结的频道开始重新开放。美国资本、技术和影响力谨慎回归，承诺经济复苏，同时再次将伊朗绑定于西方秩序。”
+ PER_The_Shahs_University：0 “沙阿大学”
+ PER_The_Shahs_University_desc：0 “复兴巴列维对现代伊朗的愿景，成立了一所新的国立大学，培养忠诚的管理者、工程师和军官。它将既是复兴的象征，也是复辟王朝未来的支柱。”
+ PER_METO：0 “中东条约组织”
+ PER_METO_desc：0 “伊朗曾是该地区西方盟友安全支柱，如今寻求重新夺回这一角色。重新加入中东条约组织标志着明显的地缘政治重组，将恢复的君主制锚定在集体防御和区域影响力的更新框架中。”
+ PER_Expanding_The_Alliance：0 “扩展联盟”
+ PER_Expanding_The_Alliance_desc：0 “复辟的沙阿与邻国土耳其和阿富汗建立联系，建立更紧密的联系和战略伙伴关系。通过联合地区大国，伊朗旨在保障边境安全，加强贸易，并确立其在中东和中亚的影响力。”
+ PER_A_Middle_Eastern_Army：0 “一支中东军队”
+ PER_A_Middle_Eastern_Army_desc：0 “在国王的领导下，伊朗开始组建一支地区军队，以团结盟友并展示实力。其存在增强了联盟的信心，加强了联系，确保成员国的安全。”
+ PER_Our_Past_Glory：0 “我们的往昔荣耀”
+ PER_Our_Past_Glory_desc：0 “国王拒绝谨慎外交，转而效仿伊朗昔日的强大。帝国的自豪感和军事力量必须恢复，那些怀疑狮子和太阳的人将感受到一个国家重新夺回中东应有地位的力量。”
+ PER_Iranic_Identity：0 “复兴伊朗身份认同”
+ PER_Iranic_Identity_desc：0 “伊朗回归根源，重新夺回曾经辉煌的遗产。古老的传统、波斯文化以及民族血脉的自豪感被复兴，旨在凝聚团结，恢复伊朗在世界强权中的正当地位。”
+ PER_Now_We_Strike：0 “现在我们打击伊拉克”
+ PER_Now_We_Strike_desc：0 “伊朗果断对伊拉克采取行动，重新夺回影响力，惩罚那些曾经挑战其权威的人。该国迅速行动，显示其实力和决心在该地区无与伦比。”
+ PER_Bahrain_And_Qatar：0 “收复巴林和卡塔尔”
+ PER_Bahrain_And_Qatar_desc：0 “数百年的渊源提醒伊朗其历史影响力。通过对巴林和卡塔尔的主权要求，该国恢复了卡扎尔王朝长期以来的影响力，强化了其在海湾地区的存在以及该地区对伊朗权力的尊重。”
+ PER_Strike_Pakistan：0 “对巴基斯坦的打击”
+ PER_Strike_Pakistan_desc：0 “伊朗采取行动惩罚挑战其权威和地区野心的邻国。迅速果断的行动将展示国家的力量，恢复自尊，并保护其东部边境免受反抗。”
+ PER_Afganistan_Belongs_To_Iran：0 “阿富汗属于伊朗”
+ PER_Afganistan_Belongs_To_Iran_desc：0 “普什图族是伊朗更伟大遗产的一部分，阿富汗的土地与伊朗的命运紧密相连。通过重新夺回影响力，国家恢复了历史联系，并在共同的文化旗帜下巩固了东部边疆。”
+ PER_Iranic_Empire：0 “宣布伊朗帝国”
+ PER_Iranic_Empire_desc：0 “伊朗恢复其应有辉煌的时刻已到。伊朗帝国再次崛起，将国家及其历史领土统一在强大、自豪和不可阻挡的野心之下。”
+ PER_Strike_At_Saudi_Arabia：0 “对沙特阿拉伯的打击”
+ PER_Strike_At_Saudi_Arabia_desc：0 “伊朗正在对主导阿拉伯半岛的瓦哈比教团采取行动。通过从被视为极端主义统治的势力手中夺取圣城，国家声称要恢复它们在更广泛伊斯兰世界中的地位，并重塑该地区的力量平衡。”
+ PER_Re_establish_the_Imperial_Army：0 “重建帝国军”
+ PER_Re_establish_the_Imperial_Army_desc：0 “伊朗以纪律、专业精神和民族自豪感重建武装力量。帝国军队借鉴了革命前的军事传统，恢复为服务于伊朗民族的力量、团结和命运，而不仅仅是意识形态。”
+ PER_Learn_From_The_Old_Generals：0 “向老将军学习”
+ PER_Learn_From_The_Old_Generals_desc：0 “历届战役的老兵分享他们的知识、战术和策略。通过研究伊朗前军事领导人的成功与失误，国家加强军队，为动荡地区的挑战做好准备。”
+ PER_An_Army_Adapted_To_Desert_Warfare：0 “适应沙漠战争的军队”
+ PER_An_Army_Adapted_To_Desert_Warfare_desc：0 “伊朗训练其部队应对沙漠战斗的严酷现实。机动性、耐力和地方知识成为军队的支柱，能够统治干旱战场并向该地区投射力量。”
+ PER_Axis_Of_Resistance：0 “统一抵抗轴心”
+ PER_Axis_Of_Resistance_desc：0 “德黑兰必须巩固其对抵抗轴心的领导地位，这是一个松散的盟友民兵和运动网络，致力于对抗西方影响和以色列在中东的势力。通过与真主党、胡塞武装及其他盟军协调，伊朗能够扩大战略纵深，并在多个战线投射力量，而无需直接的常规对抗。”
+ PER_Join_The_Houthi_Stouggle：0 “支持也门斗争”
+ PER_Join_The_Houthi_Stouggle_desc：0 “也门胡塞武装已发展成为该地区一支有能力且有影响力的力量。提升其作战能力将增强伊朗的战略影响力，扰乱敌对补给线，并将沙特和西方的注意力牵制在远离我们核心边界之外。”
+ PER_Fund_Hezbollah：0 “资助真主党”
+ PER_Fund_Hezbollah_desc：0 “真主党依然是我们最有效、意识形态最一致的伙伴之一，尤其是在对抗以色列影响方面。通过投入更多财政支持和物资援助，我们可以确保其韧性，提升战备能力，并巩固其作为伊朗地区战略关键支柱的角色。”
+ PER_Iranian_Nuclear_Program：0 “撤销针对核弹的法特瓦”
+ PER_Iranian_Nuclear_Program_desc：0“ ”
